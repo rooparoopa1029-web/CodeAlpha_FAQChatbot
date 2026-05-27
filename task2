@@ -1,0 +1,7 @@
+CodeAlpha_FAQChatbot/
+│
+├── chatbot.py
+├── faq_data.csv
+├── README.md
+├── output.png
+└── project_report.pdf
